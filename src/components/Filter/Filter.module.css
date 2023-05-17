@@ -1,0 +1,9 @@
+.section__title {
+  margin-bottom: 10px;
+}
+
+.form__input {
+  padding-left: 5px;
+  height: 25px;
+  border-radius: 10px;
+}
