@@ -4,6 +4,7 @@ const ContactList = ({ contacts, handleDeleteContact }) => {
   const handleDelete = contactId => {
     handleDeleteContact(contactId);
   };
+
   return (
     <div className="section__list">
       <ul className="contact__list">
